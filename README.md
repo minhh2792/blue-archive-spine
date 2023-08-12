@@ -1,4 +1,4 @@
-# blue-archive-spine
+# blue-archive-spine 
 Based on [respectZ/blue-archive-spine](https://github.com/respectZ/blue-archive-spine)
 
 **Blue Archive is a registered trademark of NAT GAMES Co., Ltd. This repo is not affiliated with NEXON Korea Corp. & NEXON GAMES Co., Ltd. All game resources are copyrighted to the respective owners.**
